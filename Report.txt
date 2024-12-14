@@ -1,0 +1,42 @@
+
+
+Objective :
+
+	Vrinda store wants to create an annual sales report for 2022.
+So that, Vrinda can understand their customers and grow more sales in 2023.
+
+
+Key Insights Explored 
+To dive deeper into the data, I tackled several critical business questions, including: 
+
+	1) Comparison of sales and orders using a single chart. 
+	2) Identifying the month with the highest sales and orders. 
+	3) Understanding customer demographics—Who purchased more, men or women? 
+	4) Analyzing the different order statuses in 2022. 
+	5) Listing the top 10 states contributing to sales. 
+	6) Exploring the relation between age and gender based on the number of orders. 
+	7) Determining the channel contributing to maximum sales. 
+	8) Highlighting the highest-selling category. 
+
+ Excel Techniques Used 
+- Advanced charts and visualizations 
+- Pivot tables for data summarization 
+- Conditional formatting for insights 
+- Data cleaning and transformation 
+
+
+Insights: 
+
+	1) Women are more likely to buy compaired to men (65%).
+	2) Maharashtra, Karnataka and Uttar Pradesh are the top 3 States (35%).
+	3) Adult age group (30-40 yrs) is max contributing (50%).
+	4)Amazon, Flipcart and Myntra channels are max contributing (80%).
+
+
+
+Conclusion :
+
+	1) Target women customers of age group (30 - 40 yrs) living in Maharashtra,
+Karnataka and Uttar Pradesh by showing ads/offers/coupons availabe on Amazon,Flipkart
+and Myntra.
+
